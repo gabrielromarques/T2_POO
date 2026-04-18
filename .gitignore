@@ -1,4 +1,4 @@
-"__pycache__/" 
-"saida/" 
-"*.py[cod]" 
-**/saida/
+__pycache__/ 
+saida/ 
+*.py[cod] 
+**/saida/ 
