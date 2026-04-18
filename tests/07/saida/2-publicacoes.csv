@@ -1,0 +1,128 @@
+Ano;Nome Conferência/Periódico;Fator de Impacto;Título;Docentes;Tipo;Número de Pontos
+2016;SoSyM;0,349;Toward a well-founded theory for multi-level conceptual modeling;Fred Armisen;Periódico;0,349
+2016;CAISE;0,040;Engineering Requirements with Desiree: An Empirical Evaluation;Seth Meyers;Conferência;0,020
+2016;WWW;0,626;Applying a Multi-Level Modeling Theory to Assess Taxonomic Hierarchies in Wikidata;Fred Armisen,Seth Meyers;Conferência;0,313
+2016;ACM SAC;0,855;An Ontology Pattern Language for Service Modeling;Seth Meyers,Maya Rudolph,Bill Hader;Conferência;0,428
+2016;EMMSAD;0,056;PoN-S: A Systematic Approach for Applying the Physics of Notation (PoN);Seth Meyers,Maya Rudolph,Bill Hader;Conferência;0,028
+2016;FOIS;0,643;Towards an Ontology of Requirements at Runtime;Bill Hader,Kenan Thompson,Seth Meyers,Amy Poehler;Conferência;0,322
+2016;BPM;0,365;Ontological Considerations about the Representation of Events and Endurants in Business Models;Fred Armisen,Seth Meyers;Conferência;0,182
+2016;ISWC;0,491;Expressive Multi-Level Modeling for the Semantic Web;Fred Armisen,Seth Meyers;Conferência;0,246
+2016;RCIS;0,811;How Software Changes the World: The Role of Assumptions;Seth Meyers;Conferência;0,406
+2016;AI*IA;0,519;Relationships and Events: Towards a General Theory of Reification and Truthmaking;Seth Meyers;Conferência;0,260
+2016;QMMQ;0,162;The Design of a Core Value Ontology using Ontology Patterns;Seth Meyers;Conferência;0,081
+2016;ONTOBRAS;0,707;Extending an Ontology Editor for Domain-related Ontology Patterns Reuse: An Application in the Collaboration Domain;Seth Meyers,Amy Poehler;Conferência;0,354
+2016;CAISE;0,789;Using a Well-Founded Multi-Level Theory to Support the Analysis and Representation of the Powertype Pattern in Conceptual Modeling;Fred Armisen,Seth Meyers;Conferência;0,395
+2016;EMMSAD;0,469;Representing Dynamic Invariants in Ontologically Well-Founded Conceptual Models;Fred Armisen;Conferência;0,235
+2016;EDOCW;0,421;Service Commitments and Capabilities across the ArchiMate Architectural Layers;Fred Armisen,Bill Hader;Conferência;0,210
+2016;ONTOBRAS;0,896;An Ontological Analysis of Capability Modeling in Defense Enterprise Architecture Frameworks;Fred Armisen,Seth Meyers;Conferência;0,448
+2016;SBQS;0,229;Integrating Tools to Support Software Measurement.;Maya Rudolph,Bill Hader;Conferência;0,115
+2016;SBQS;0,392;An Ontology-Based Approach for Software Measurement Systems Integration;Maya Rudolph,Bill Hader;Conferência;0,196
+2016;SBQS;0,659;Semantic Documentation in Project Management. In: XV Simpósio Brasileiro de Qualidade de Software;Maya Rudolph,Bill Hader;Conferência;0,329
+2016;SBQS;0,937;Measures Suitable for SPC: A Systematic Mapping;Maya Rudolph;Conferência;0,468
+2016;EKAW;0,313;SEON: A Software Engineering Ontology Network;Bill Hader,Maya Rudolph,Seth Meyers;Conferência;0,157
+2016;ONTOBRAS;0,785;Process Integration in Semantic Enterprise Application Integration: a Systematic Mapping;Maya Rudolph,Bill Hader;Conferência;0,392
+2016;SEAMS;0,291;Model predictive control for software systems with CobRA;Kenan Thompson;Conferência;0,145
+2016;Webmedia;0,714;A Framework-based Approach for the Integration of Web-based Information Systems on the Semantic Web;Kenan Thompson;Conferência;0,357
+2015;CAISE;0,265;We need to Discuss the Relationship: Revisiting Relationships as Modeling Constructs;Seth Meyers;Conferência;0,133
+2015;ACM SAC;0,610;Towards an Ontology Pattern Language for Harmonizing Software Process related ISO Standards;Seth Meyers,Maya Rudolph,Bill Hader;Conferência;0,305
+2015;REFSQ;0,316;From Stakeholder?s Requirements to Formal Specifications through Refinement;Seth Meyers;Conferência;0,158
+2015;VMBO;0,153;Modeling Service Dynamics: a Case Study;Seth Meyers;Conferência;0,076
+2015;ER;0,932;Ontology Engineering by Combining Ontology Patterns;Seth Meyers,Bill Hader;Conferência;0,466
+2015;ER;0,951;Towards a Service Ontology Pattern Language;Seth Meyers,Maya Rudolph,Bill Hader;Conferência;0,476
+2015;EDOC;0,539;OntoUML Lightweight Editor: A Model-Based Environment to Build, Evaluate and Implement Reference Ontologies.;Seth Meyers,Fred Armisen;Conferência;0,270
+2015;FOFAI;0,422;Towards an Ontological Analysis of Powertypes;Seth Meyers,Fred Armisen;Conferência;0,211
+2015;ICAIL;0,856;Towards A Legal Core Ontology Based on Alexy?s Theory of Fundamental Rights;Seth Meyers,Fred Armisen;Conferência;0,428
+2015;ONTOBRAS;0,042;A Systematic Mapping of the Literature on Legal Core Ontologies;Seth Meyers,Fred Armisen;Conferência;0,021
+2015;ONTOBRAS;0,080;An Empirical Study to validate the Use of Ontological Guidelines in the Creation of i* Models;Seth Meyers,Amy Poehler;Conferência;0,040
+2015;PoEM;0,404;Ontology-based Modeling of Cloud Services: Challenges and Perspectives;Seth Meyers,Maya Rudolph,Bill Hader;Conferência;0,202
+2015;ER;0,849;Extending the Foundations of Ontology-based Conceptual Modeling with a Multi-Level Theory;Seth Meyers,Fred Armisen;Conferência;0,424
+2015;OXFORD;0,281;A commitment-based reference ontology for services.;Seth Meyers,Fred Armisen,Bill Hader;Periódico;0,281
+2015;OXFORD;0,483;Modeling resources and capabilities in enterprise architecture: A well-founded ontology-based proposal for ArchiMate;Seth Meyers,Fred Armisen;Periódico;0,483
+2015;DKE;0,299;Ontological anti-patterns: empirically uncovered error-prone structures in ontology-driven conceptual models;Seth Meyers;Periódico;0,299
+2015;AO;0,844;Towards ontological foundations for conceptual modeling: The unified foundational ontology (UFO) story;Seth Meyers,Fred Armisen,Amy Poehler;Periódico;0,844
+2015;ACR;0,977;An ISO-based software process ontology pattern language and its application for harmonizing standards;Seth Meyers,Maya Rudolph,Bill Hader;Periódico;0,977
+2015;CogSIMA;0,181;Assessing situation models with a lightweight formal method;Fred Armisen;Conferência;0,090
+2015;EDOC;0,554;Towards Capturing Strategic Planning in EA;Fred Armisen;Conferência;0,277
+2015;EDOC;0,371;A Semantic Foundation for Organizational Structures: A Multi-level Approach.;Fred Armisen;Conferência;0,185
+2015;QMMQ;0,993;Modeling Stories for Conceptual Model Assessment;Fred Armisen;Conferência;0,497
+2015;CAISE;0,333;Aligning Enterprise Architecture with Strategic Planning;Fred Armisen;Conferência;0,167
+2015;iSys;0,390;Tools Integration for Supporting Software Measurement: A Systematic Literature Review;Maya Rudolph,Bill Hader;Periódico;0,390
+2015;ICEIS;0,233;Metrics to Support IT Service Maturity Models: A Systematic Mapping;Maya Rudolph;Conferência;0,116
+2015;SEKE;0,248;Integration of Software Measurement Supporting Tools: A Mapping Study;Maya Rudolph,Bill Hader;Conferência;0,124
+2015;WTDQS;0,427;Um Método para Seleção de Indicadores de Serviços de TI;Maya Rudolph;Conferência;0,213
+2015;ONTOBRAS;0,897;Exploring Ontologies for Semantic Documentation in Project Management;Maya Rudolph,Bill Hader;Conferência;0,449
+2015;PROFES;0,453;SINIS: A Method to Select Indicators for IT Services;Maya Rudolph;Conferência;0,226
+2015;AO;0,849;An ontology of online user feedback in software engineering;Amy Poehler;Periódico;0,849
+2015;ER;0,741;A Method to Align Goals and Business Processes;Amy Poehler;Conferência;0,370
+2015;SEAA;0,937;Using the Findings of a Mapping Study to Conduct a Research Project: A Case in Knowledge Management in Software Testing;Bill Hader;Conferência;0,468
+2015;ER;0,505;Capturing Variability in Adaptation Spaces: A Three-Peaks Approach;Kenan Thompson;Conferência;0,253
+2015;Webmedia;0,181;A Model-Driven Approach for the Design of Web Information Systems based on Frameworks;Kenan Thompson;Conferência;0,091
+2015;RBIE;0,093;Sobre a aplicação de ontologias para orientar agentes a responder perguntas;Kristen Wiig,Jason Sudeikis;Periódico;0,093
+2015;Impresa;0,056;Trajetórias de aprendizagens em uma formação de professores na modalidade EAD;Kristen Wiig;Periódico;0,056
+2016;SBIE;0,134;EsCola ? Ambiente Educacional para Escrita Colaborativa;Kristen Wiig;Conferência;0,067
+2016;WIE;0,221;Projetos Maker como Forma de Estimular o Raciocínio Formal através do Pensamento Computacional;Kristen Wiig;Conferência;0,110
+2016;WIE;0,311;Aprendizagem colaborativa: desenvolvimento de Projetos de Aprendizagem em ambientes digitais;Kristen Wiig;Conferência;0,155
+2016;CBIE;0,212;Apoio computacional para a Mediação Pedagógica em ?Debate de Teses?;Kristen Wiig;Conferência;0,106
+2016;CBIE;0,991;AvaGames: Um Ambiente para Apoio a Avaliação da Aprendizagem em Jogos Digitais;Kristen Wiig;Conferência;0,496
+2016;CBIE;0,908;Arcabouço Conceitual de Adaptação de Recursos Educacionais para Recomendação de Arquiteturas Pedagógicas;Kristen Wiig;Conferência;0,454
+2016;CBIE;0,755;Um Ambiente para Autoria e Realização de Aventuras Pedagógicas Digitais;Kristen Wiig;Conferência;0,378
+2016;CBIE;0,656;Os pequenos nativos digitais e suas percepções sobre o mundo digital;Kristen Wiig;Conferência;0,328
+2016;PAEE;0,367;Aprendizagem Ativa no Desenvolvimento de Sistemas Colaborativos;Kristen Wiig;Conferência;0,184
+2016;FIE;0,149;Methodology and a technological framework to maximize learning in a development of serious games distance course and the evaluation of learning;Kristen Wiig;Conferência;0,075
+2016;SBSI;0,894;Metodologia de Avaliação de Portais da Transparência Municipais;Kristen Wiig;Conferência;0,447
+2016;SABTIC;0,698;Um Sistema Especialista para o Planejamento de Auditorias Baseado em Análise de Riscos;Kristen Wiig;Conferência;0,349
+2016;CINTED;0,720;Um Ambiente de Autoria para Aplicações com Realidade Aumentada: A3RA;Kristen Wiig;Conferência;0,360
+2015;SBIE;0,119;AM: Uma Plataforma Digital para Criacao e Uso de Veículos de Comunicacao Locativos para Atividades Pedagogicas;Kristen Wiig,Tina Fey;Conferência;0,059
+2015;SBIE;0,786;Apoio a mediação pedagógica em um Debate de Teses utilizando técnicas de processamento de texto;Kristen Wiig;Conferência;0,393
+2015;SBIE;0,416;Explorando Arquiteturas Pedagógicas Recomendadas por meio de Agentes e Ontologia de Modelo do Aluno em Ambientes Virtuais de Aprendizagem;Kristen Wiig;Conferência;0,208
+2015;SBIE;0,959;A multiplicidade de papéis e o suporte computacional às arquiteturas pedagógicas;Kristen Wiig;Conferência;0,480
+2015;WIE;0,497;Relatos de Aprendizagens e Diretrizes para Planejamento de Disciplinas que usem Jogos Digitais aplicados à Educação;Kristen Wiig;Conferência;0,248
+2015;SBGames;0,384;Avaliação para Aprendizagem Baseada em Jogos: Proposta de um Framework;Kristen Wiig;Conferência;0,192
+2015;SBGames;0,917;Jogos Educacionais Adaptativos: Promovendo Experiências Personalizadas;Kristen Wiig;Conferência;0,459
+2015;SBGames;0,760;Modelo para um Framework Computacional para Avaliação Formativa da Aprendizagem em Jogos Digitais;Kristen Wiig;Conferência;0,380
+2015;FIE;0,842;Adaptation Resources in Virtual Learning Environments under Constructivist Approach: A Systematic Review;Kristen Wiig;Conferência;0,421
+2016;SBIE;0,866;NaPontaDaLíngua: Um Aplicativo para Apoiar o Processo de Ensino-Aprendizagem da Língua Portuguesa;Jason Sudeikis;Conferência;0,433
+2016;SBIE;0,732;Uma Plataforma de Serviços para Mapas Conceituais;Jason Sudeikis;Conferência;0,366
+2016;CMC;0,765;AUTOMATIC CONSTRUCTION OF CONCEPT MAPS FROM TEXTS;Jason Sudeikis;Conferência;0,383
+2016;CMC;0,485;ONTOMAP: A SERVICE FOR THE TRANSFORMATION OF CONCEPT MAPS TO SHALLOW OWL ONTOLOGIES;Jason Sudeikis;Conferência;0,242
+2016;LACLO;0,581;An innovative methodology based on mediation for technological distance learning: A case study of the ?integrated student? Project;Jason Sudeikis;Conferência;0,291
+2016;LACLO;0,863;A categorization of technological approaches to concept maps construction;Jason Sudeikis;Conferência;0,432
+2016;LACLO;0,858;An IoT computational robotics learning laboratory in Vila Velha, Espirito Santo;Jason Sudeikis;Conferência;0,429
+2016;TISE;0,053;Utilizando o SCRATCH no desenvolvimento de lógica de programação como contribuição interdisciplinar;Jason Sudeikis;Conferência;0,027
+2015;TISE;0,341;AMBIENTE VIRTUAL DE APRENDIZAGEM - A INCLUSÃO AUTÔNOMA DOS APRENDIZES DEFICIENTES VISUAIS;Jason Sudeikis;Conferência;0,171
+2015;TISE;0,540;Contextualização e Caracterização de uma Abordagem Tecnológica para a Construção de Mapas Conceituais;Jason Sudeikis;Conferência;0,270
+2015;TISE;0,246;OntoMap: De Mapas Conceituais a Ontologias OWL;Jason Sudeikis;Conferência;0,123
+2015;TISE;0,324;Automatizando uma argumentação construtivista por meio dos mapas conceituais;Jason Sudeikis;Conferência;0,162
+2015;DLC;0,173;Un Estudio de Caso de Reconocimiento de Patrones en los Textos Colectivos en el Ciberespacio Mediante la Herramienta Wiki en Cursos a Distancia de Pregrado;Jason Sudeikis;Periódico;0,173
+2015;RIA;0,325;CAPCOM ? Construtor de Arquiteturas Pedagógicas para Dinâmicas Colaborativas com Dados Multimídia;Jason Sudeikis;Periódico;0,325
+2016;SBSC;0,434;CAPCOM - Construtor de Arquiteturas Pedagógicas para Dinâmicas Colaborativas com Multimı́dia;Tina Fey;Conferência;0,217
+2016;SBIE;0,591;Ambiente para Aprendizagem de Programação fundamentado em Arquiteturas Pedagógicas;Tina Fey;Conferência;0,295
+2016;CBIE;0,291;Uma plataforma para construção de arquiteturas pedagógicas para a aprendizagem de LIBRAS;Tina Fey;Conferência;0,146
+2016;CBIE;0,762;CAPCOM - Construtor de Arquiteturas Pedagógicas Colaborativas para Operações Cognitivas sobre Dados Multimídia;Tina Fey;Conferência;0,381
+2016;Webmedia;0,364;ExCAM - Uma metodologia Crowdsourcing para a autoria de conteúdo extra para vídeos;Tina Fey;Conferência;0,182
+2015;ICAI;0,956;A Cluster-based Algorithm for Anomaly Detection in Time Series Using Mahalanobis Distance;Tina Fey;Conferência;0,478
+2015;SBSC;0,814;Modelo para descrição de espaços colaborativos: Apoiando a realização de Arquiteturas Pedagógicas;Tina Fey,Kristen Wiig;Conferência;0,407
+2015;SBIE;0,190;MVLIBRAS: ambiente digital para comunidades de aprendizagem com recursos inclusivos para surdos;Tina Fey;Conferência;0,095
+2015;TISE;0,305;Ambiente multiagente para interações síncronas;Tina Fey;Conferência;0,153
+2015;TISE;0,621;Reconhecimento de voz para Inclusão de deficientes visuais em ambientes virtuais de aprendizagem;Tina Fey,Jason Sudeikis;Conferência;0,310
+2015;WAPSEDI;0,310;Uma Arquitetura Pedagógica para Aprendizagem de Pilotagem de Aeronaves;Tina Fey;Conferência;0,155
+2015;TISE;0,236;CriEduc - Sistema web de aprendizagem com tecnologias geoespaciais;Tina Fey;Conferência;0,118
+2016;ITOR;0,147;Exact formulations for the minimum interference problem in k -connected ad hoc wireless networks;Andy Samberg;Periódico;0,147
+2016;SBPO;0,690;Conjunto Mínimo de Observadores para Geração de Matrizes de Tráfego;Andy Samberg;Conferência;0,345
+2015;SBPO;0,497;Scheduling Connected Topologies in Wireless Sensor Networks under the Physical Interference Model;Andy Samberg;Conferência;0,248
+2015;ERI;0,716;RaspiWRT: Dispositivo Aberto para Programação e Configuração de Redes Domésticas usando\Raspberry Pi e Linux;Andy Samberg;Conferência;0,358
+2015;IBM;0,891;Toward a platform to support vocational training of people with disabilities;Jay Pharoah;Periódico;0,891
+2016;DocEng;0,660;A Lightweight and Efficient Mechanism for Fixing the Synchronization of Misaligned Subtitle Documents;Jay Pharoah;Conferência;0,330
+2016;Web4All;0,943;Identifying challenges and opportunities in computer-based vocational training for low-income communities of people with intellectual disabilities;Jay Pharoah;Conferência;0,472
+2016;SBPO;0,028;Inserção de restrições de sincronização no roteamento de veículos ? Aplicação a um problema no setor florestal;Will Forte;Conferência;0,014
+2016;SBPO;0,586;Meta-heurística grasp aplicada ao problema do corte bidimensional não-guilhotinado;Will Forte;Conferência;0,293
+2016;SBPO;0,321;Um algoritmo grasp para o SALBP-2;Will Forte;Conferência;0,160
+2016;SBPO;0,534;Um algoritmo simulaterd annealing e um híbrido VNS/ILS para resolver o problema de layout em múltiplas linhas;Will Forte;Conferência;0,267
+2015;SBPO;0,562;Um Simples e Robusto GRASP para o Job Shop Scheduling Problem;Will Forte;Conferência;0,281
+2015;SBPO;0,043;Meta heurística Simulated Annealing aplicada ao problema de corte bidimensional não-guilhotinado;Will Forte;Conferência;0,022
+2015;SBPO;0,897;Simulated Annealing Aplicado ao Problema de Ordenação em Linhas Paralelas;Will Forte;Conferência;0,448
+2015;SBPO;0,591;Um algoritmo GRASP aplicado ao problema de layout de facilidades em fila única.;Will Forte;Conferência;0,296
+2015;SBPO;0,754;Desenvolvimento de um algoritmo de Busca Local Iterada para o problema Dial-a-Ride;Will Forte;Conferência;0,377
+2015;ENEGEP;0,914;A qualidade do serviço de transporte de cadeirantes na grande Vitória-ES;Will Forte;Conferência;0,457
+2015;ENEGEP;0,209;meta-heurística simulated annealing aplicada ao problema do roteamento de veículos capacitados com restrições de carregamento bidimensional;Will Forte;Conferência;0,104
+2015;ENMC;0,908;Um algoritmo ILS para o Problema de Alocação de Facilidades em um Corredor;Will Forte;Conferência;0,454
